@@ -46,7 +46,7 @@ namespace QuizScores
         {
             Console.Clear();
             Console.WriteLine();
-            Console.WriteLine("Quiz Scores");
+            Console.WriteLine("Quiz Scores:");
             Console.WriteLine();
 
             //
